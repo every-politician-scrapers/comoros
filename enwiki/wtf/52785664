@@ -1,0 +1,101 @@
+{
+  "title": "Moustadroine Abdou",
+  "pageID": 52785664,
+  "categories": [
+    "Comorian politicians",
+    "Living people",
+    "1969 births",
+    "Vice-presidents of the Comoros",
+    "People from Anjouan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moustadroine Abdou (born 14 June 1969) is Comorian politician from Anjouan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anjouan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Moustadroine Abdou"
+                ]
+              }
+            },
+            {
+              "text": "From 26 May 2016 to 26 May 2019, he served as the Vice-President of the Comoros responsible for Agriculture, Fishing, Environment, Spatial Planning and Urbanism.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice-President of the Comoros"
+                },
+                {
+                  "type": "internal",
+                  "page": "Agriculture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fishing"
+                },
+                {
+                  "text": "Spatial Planning",
+                  "type": "internal",
+                  "page": "Spatial planning"
+                },
+                {
+                  "type": "internal",
+                  "page": "Urbanism"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2022",
+          "template": "cleanup bare urls"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://country.eiu.com/article.aspx?articleid=1004314084&Country=Comoros&topic=Summary&subtopic=Political+structure",
+          "title": "EIUCountry Login",
+          "website": "country.eiu.com",
+          "access-date": "2017-01-05",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "comoros-politician-stub"
+        }
+      ]
+    }
+  ]
+}

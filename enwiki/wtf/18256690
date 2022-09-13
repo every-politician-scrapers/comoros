@@ -1,0 +1,136 @@
+{
+  "title": "Moussa Toybou",
+  "pageID": 18256690,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Comorian politicians",
+    "People from Anjouan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moussa Toybou (born 28 November 1962) is the President of the autonomous island of Anjouan in the Union of the Comoros.",
+              "links": [
+                {
+                  "text": "President of the autonomous island of",
+                  "type": "internal",
+                  "page": "President of Anjouan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anjouan"
+                },
+                {
+                  "text": "Union of the Comoros",
+                  "type": "internal",
+                  "page": "Comoros"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Moussa Toybou"
+                ]
+              }
+            },
+            {
+              "text": "Toybou won the June 2008 Anjouan presidential election, which was held to replace Mohamed Bacar following the March 2008 invasion of Anjouan.",
+              "links": [
+                {
+                  "text": "June 2008 Anjouan presidential election",
+                  "type": "internal",
+                  "page": "Anjouan presidential election, 2008"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mohamed Bacar"
+                },
+                {
+                  "text": "March 2008 invasion of Anjouan",
+                  "type": "internal",
+                  "page": "2008 invasion of Anjouan"
+                }
+              ]
+            },
+            {
+              "text": "Toybou won 52.42 percent of the vote in the 29 June presidential run-off, defeating Mohamed Djaanfari.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Djaanfari"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to entering politics, Toybou was trained as a civil engineer in Algeria.",
+              "links": [
+                {
+                  "text": "civil engineer",
+                  "type": "internal",
+                  "page": "civil engineer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Algeria"
+                }
+              ]
+            },
+            {
+              "text": "In the 2008 election, he was backed by Union President Ahmed Abdallah Sambi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Abdallah Sambi"
+                }
+              ]
+            },
+            {
+              "text": "Toybou said that he knew how to \"lift Anjouan out of under-development\", and he supported allowing some of those who served under Bacar to remain in administrative roles due to their experience and the need for reconciliation."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "comoros-politician-stub"
+        }
+      ]
+    }
+  ]
+}

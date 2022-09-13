@@ -1,0 +1,101 @@
+{
+  "title": "Mohamed Abdoulwahab",
+  "pageID": 12274763,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Grande Comore",
+    "Foreign ministers of the Comoros",
+    "Interior ministers of the Comoros",
+    "Justice ministers of the Comoros"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed Abdoulwahab (also spelled Abdouloihabi) (born 31 December 1959) has been president of the autonomous island of Grande Comore in the Comoros since 30 June 2007.",
+              "links": [
+                {
+                  "text": "president",
+                  "type": "internal",
+                  "page": "President of Grande Comore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Grande Comore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Comoros"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohamed Abdoulwahab",
+                  "Abdouloihabi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A lawyer and veteran politician, he held several posts in previous national governments, including interior minister (October 1994-April 1995), foreign minister (April–September 1995), and justice minister (May–August 1996).",
+              "links": [
+                {
+                  "text": "interior minister",
+                  "type": "internal",
+                  "page": "interior minister"
+                },
+                {
+                  "text": "foreign minister",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Comoros)"
+                },
+                {
+                  "text": "justice minister",
+                  "type": "internal",
+                  "page": "justice minister"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Britannica Book of the Year 2008",
+          "url": "https://books.google.com/books?id=5wKvMZWcgKYC&pg=PA387",
+          "accessdate": "18 December 2010",
+          "year": "2009",
+          "publisher": "Encyclopædia Britannica",
+          "isbn": "978-1-59339-494-3",
+          "page": "387",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "date": "March 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "comoros-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "title": "Azali Assoumani",
+  "pageID": 392337,
+  "categories": [
+    "1959 births",
+    "Comorian military personnel",
+    "Convention for the Renewal of the Comoros politicians",
+    "Leaders who took power by coup",
+    "Living people",
+    "People from Grande Comore",
+    "Presidents of the Comoros"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Azali Assoumani (غزالي عثماني; born 1 January 1959) is a Comorian politician and military officer who has served as President of the Comoros since April 2019.",
+              "links": [
+                {
+                  "text": "Comorian",
+                  "type": "internal",
+                  "page": "Comoros"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the Comoros"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Azali Assoumani"
+                ]
+              }
+            },
+            {
+              "text": "He was also president from 2002 to 2006 and 2016 to February 2019."
+            },
+            {
+              "text": "He became head of state after staging a coup d'état in 1999 and was elected president in 2002, 2016 and April 2019.",
+              "links": [
+                {
+                  "text": "coup d'état",
+                  "type": "internal",
+                  "page": "coup d'état"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Comoros",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "1",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Azali Assoumani"
+          },
+          "native_name": {
+            "text": "غزالي عثماني"
+          },
+          "image": {
+            "text": "President Azali Assoumani.jpg"
+          },
+          "caption": {
+            "text": "Assoumani in 2018"
+          },
+          "office": {
+            "text": "President of the Comoros",
+            "links": [
+              {
+                "text": "President of the Comoros",
+                "type": "internal",
+                "page": "List of heads of state of the Comoros"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Moustadroine Abdou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moustadroine Abdou"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ikililou Dhoinine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ikililou Dhoinine"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Moustadroine Abdou (interim)"
+          },
+          "vicepresident1": {
+            "text": "Abdallah Said Sarouma Djaffar Ahmed Said Moustadroine Abdou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdallah Said Sarouma"
+              },
+              {
+                "type": "internal",
+                "page": "Djaffar Ahmed Said"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Hamada Madi (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamada Madi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ahmed Abdallah Mohamed Sambi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmed Abdallah Mohamed Sambi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 1, 1959"
+          },
+          "birth_place": {
+            "text": "Mitsoudjé, Comoros",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mitsoudjé"
+              },
+              {
+                "type": "internal",
+                "page": "Comoros"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ambari Assoumani"
+          },
+          "party": {
+            "text": "Convention for the Renewal of the Comoros",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Convention for the Renewal of the Comoros"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Assoumanisignature.JPG"
+          },
+          "predecessor3": {
+            "text": "Tadjidine Ben Said Massounde (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tadjidine Ben Said Massounde"
+              }
+            ]
+          },
+          "term_end3": {
+            "text": "21 January 2002"
+          },
+          "term_start3": {
+            "text": "30 April 1999"
+          },
+          "office3": {
+            "text": "President of the Council of State of the Comoros"
+          },
+          "vicepresident2": {
+            "text": "Caabi El-Yachroutu Mohamed\nRachidi ben Massonde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Caabi El-Yachroutu Mohamed"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "26 May 2016"
+          },
+          "termend2": {
+            "text": "26 May 2006"
+          },
+          "termstart2": {
+            "text": "26 May 2002"
+          },
+          "termend1": {
+            "text": "13 February 2019"
+          },
+          "termstart": {
+            "text": "3 April 2019"
+          },
+          "successor3": {
+            "text": "Hamada Madi (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamada Madi"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Senior military officer",
+            "links": [
+              {
+                "text": "Senior military officer",
+                "type": "internal",
+                "page": "Officer (armed forces)"
+              }
+            ]
+          },
+          "native_name_lang": {
+            "text": "ar"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Azali Assoumani became the President of the Council of State of the Comoros in 1999 after overthrowing interim president Tadjidine Ben Said Massounde in a coup d'état.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tadjidine Ben Said Massounde"
+                }
+              ]
+            },
+            {
+              "text": "His troops justified the coup on the basis of protecting territorial integrity after Massounde had begun negotiations with representatives of the island of Anjouan for greater autonomy or independence.",
+              "links": [
+                {
+                  "text": "territorial integrity",
+                  "type": "internal",
+                  "page": "territorial integrity"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anjouan"
+                }
+              ]
+            },
+            {
+              "text": "This was despite the fact that an international conference in Antananarivo had resulted in a settlement on the matter between the three islands of the Comoros, although the government of Anjouan had delayed rafifying the agreement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Antananarivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 23 December 2001, Assoumani's new proposed constitution was adopted by referendum."
+            },
+            {
+              "text": "The constitution established a rotating presidency and granted considerable autonomy to the Comorian islands, each of which gained its own basic law, flag and executive branch of government."
+            },
+            {
+              "text": "It also renamed the country from the Federal Islamic Republic of the Comoros to the Union of the Comoros and redesigned the national flag to remove its religious inscriptions and become multicolour, as can be seen today."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Assoumani announced elections for 2002, with violent clashes between state forces and the opposition erupting across the country during the campaign."
+            },
+            {
+              "text": "Reports of arbitrary arrests also emerged."
+            },
+            {
+              "text": "Assoumani resigned from his position as President of the Council of State on 21 January 2002 in order to run for President of the Union of the Comoros and was succeeded by Hamada Madi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamada Madi"
+                }
+              ]
+            },
+            {
+              "text": "Assoumani was then elected president with 75% of the vote in the multiparty 2002 Comorian presidential election, and was inaugurated on 26 May 2002.",
+              "links": [
+                {
+                  "text": "2002 Comorian presidential election",
+                  "type": "internal",
+                  "page": "2002 Comorian presidential election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Assoumani's presidency was marked by conflicts over jurisdiction and political gridlock due to his refusal to devolve power to the autonomous regions of the Comoros, as mandated by the constitution.",
+              "links": [
+                {
+                  "text": "political gridlock",
+                  "type": "internal",
+                  "page": "Gridlock (politics)"
+                }
+              ]
+            },
+            {
+              "text": "The latter also required that successive presidents be from different islands, allowing Ahmed Abdallah Mohamed Sambi from Anjouan to succeed him after winning the 2006 presidential election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Abdallah Mohamed Sambi"
+                },
+                {
+                  "text": "2006 presidential election",
+                  "type": "internal",
+                  "page": "2006 Comorian presidential election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Assoumani launched a second presidential bid in the 2016 presidential election.",
+              "links": [
+                {
+                  "text": "2016 presidential election",
+                  "type": "internal",
+                  "page": "2016 Comorian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "In the first round on 21 February, he came third with 14.96% of the vote, before winning the second round with 40.98% of the vote on 10 April."
+            },
+            {
+              "text": "However, both Assoumani and his opponent Mohamed Ali Solihi disputed the election result, alleging irregularities and electoral fraud in the second round."
+            },
+            {
+              "text": "Assoumani demanded the invalidation of ballots from most of the polling stations on Anjouan in particular."
+            },
+            {
+              "text": "Consequently, a third round of voting took place on 11 May."
+            },
+            {
+              "text": "The Constitutional Court declared Assoumani the winner with 41.43% of the vote on 15 May, and he took office on 26 May for a five-year term."
+            },
+            {
+              "text": "His first vice-president was Djaffar Ahmed Said, the former attorney-general and director of judicial affairs, who was later replaced by Moustadroine Aboudou from Anjouan and then Abdallah Said Sarouma from Mohéli.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djaffar Ahmed Said"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdallah Said Sarouma"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mohéli"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his tenure, the opposition accused Assoumani of having amended the constitution to remain in power until 2029."
+            },
+            {
+              "text": "In addition, his closing of the Constitutional Court and Anti-Corruption Court caused the European Union to suspend all cooperation with the Comoros in protest.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 February 2019, Assoumani resigned the presidency to campaign for re-election in the 2019 Comorian presidential election on 24 March.",
+              "links": [
+                {
+                  "text": "2019 Comorian presidential election",
+                  "type": "internal",
+                  "page": "2019 Comorian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "He was elected in the first round and assumed office again on 3 April."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2016-02-24",
+          "title": "Présidentielle aux Comores: les qualifiés pour le second tour connus",
+          "url": "https://www.rfi.fr/fr/afrique/20160224-presidentielle-comores-qualifies-le-second-tour-connus-tierce-ceni",
+          "access-date": "2022-05-11",
+          "website": "RFI",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Comores: l'ex-putschiste Azali Assoumani élu président",
+          "url": "https://www.bfmtv.com/international/afrique/comores-l-ex-putschiste-azali-assoumani-elu-president_AN-201604150054.html",
+          "access-date": "2022-05-11",
+          "website": "BFMTV",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2016-04-21",
+          "title": "Comores: Mohamed Ali Soilihi et Azali Assoumani ont déposé des recours",
+          "url": "https://www.rfi.fr/fr/afrique/20160421-election-comores-candidats-presidentielle-gouverneurs-recours-sohili-azali-assouman",
+          "access-date": "2022-05-11",
+          "website": "RFI",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2016-05-15",
+          "title": "Comores: Azali Assoumani élu nouveau président",
+          "url": "https://www.rfi.fr/fr/afrique/20160515-comores-azali-assoumani-president-election",
+          "access-date": "2022-05-11",
+          "website": "RFI",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Berthemet",
+          "first": "Tanguy",
+          "date": "16 November 2018",
+          "title": "Azali Assoumani: \" Les Comoriens ne seront jamais illégaux à Mayotte! \"",
+          "work": "Le Figaro",
+          "url": "http://www.lefigaro.fr/international/2018/11/16/01003-20181116ARTFIG00257-azali-assoumani-les-comoriens-ne-seront-jamais-illegaux-a-mayotte.php",
+          "access-date": "11 May 2022",
+          "archive-url": "https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.lefigaro.fr%2Finternational%2F2018%2F11%2F16%2F01003-20181116ARTFIG00257-azali-assoumani-les-comoriens-ne-seront-jamais-illegaux-a-mayotte.php#federation=archive.wikiwix.com",
+          "archive-date": "15 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "L'actualité régionale 14 Février",
+          "url": "https://la1ere.francetvinfo.fr/mayotte/actualite-regionale-14-fevrier-679813.html",
+          "access-date": "2022-05-11",
+          "website": "Mayotte la 1ère",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Elections aux Comores : Azali Assoumani est élu dès le premier tour avec 60,7%",
+          "url": "https://la1ere.francetvinfo.fr/mayotte/elections-aux-comores-azali-assoumani-est-elu-premier-tour-607-693918.html",
+          "access-date": "2022-05-11",
+          "website": "Mayotte la 1ère",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "4 April 2019",
+          "title": "Comores: sitôt réélu, le président reprend ses fonctions sans attendre son investiture",
+          "work": "TV5Monde",
+          "url": "https://information.tv5monde.com/afrique/comores-sitot-reelu-le-president-reprend-ses-fonctions-sans-attendre-son-investiture-293481",
+          "archive-url": "https://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Finformation.tv5monde.com%2Fafrique%2Fcomores-sitot-reelu-le-president-reprend-ses-fonctions-sans-attendre-son-investiture-293481#federation=archive.wikiwix.com",
+          "archive-date": "4 March 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "COMORES",
+          "url": "http://web.amnesty.org/report2003/com-summary-fra",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20070901125105/http://web.amnesty.org/report2003/com-summary-fra",
+          "archive-date": "1 September 2007",
+          "access-date": "5 May 2022",
+          "website": "Amnesty International",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Diplomacy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Assoumani was invited by President Paul Biya of Cameroon to open the 2021 Africa Cup of Nations at Olembe Stadium, Yaoundé.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Biya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cameroon"
+                },
+                {
+                  "text": "2021 Africa Cup of Nations",
+                  "type": "internal",
+                  "page": "2021 Africa Cup of Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Olembe Stadium"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yaoundé"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tadjidine Ben Said Massounde Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Comoros",
+          "years": "1999–2002",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hamada Madi Acting",
+          "template": "s-aft"
+        },
+        {
+          "before": "Hamada Madi Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Comoros",
+          "years": "2002–2006",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ahmed Abdallah Mohamed Sambi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Ikililou Dhoinine",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Comoros",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "comoros presidents"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "arab country leaders"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
