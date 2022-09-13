@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the Council of State of the Comoros"
+    },
+    "P580": "1999-04-30",
+    "P1365": {
+      "links": [
+        "Tadjidine Ben Said Massounde"
+      ],
+      "stated_as": "Tadjidine Ben Said Massounde (Acting)"
+    },
+    "P582": "2002-01-21",
+    "P1366": {
+      "links": [
+        "Hamada Madi"
+      ],
+      "stated_as": "Hamada Madi (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of the Comoros"
+      ],
+      "stated_as": "President of the Comoros"
+    },
+    "P580": "2002-05-26",
+    "P1365": {
+      "links": [
+        "Hamada Madi"
+      ],
+      "stated_as": "Hamada Madi (interim)"
+    },
+    "P582": "2006-05-26",
+    "P1366": {
+      "links": [
+        "Ahmed Abdallah Mohamed Sambi"
+      ],
+      "stated_as": "Ahmed Abdallah Mohamed Sambi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of the Comoros"
+      ],
+      "stated_as": "President of the Comoros"
+    },
+    "P580": "2016-05-26",
+    "P1365": {
+      "links": [
+        "Ikililou Dhoinine"
+      ],
+      "stated_as": "Ikililou Dhoinine"
+    },
+    "P582": "2019-02-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Moustadroine Abdou (interim)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of the Comoros"
+      ],
+      "stated_as": "President of the Comoros"
+    },
+    "P580": "2019-04-03",
+    "P1365": {
+      "links": [
+        "Moustadroine Abdou"
+      ],
+      "stated_as": "Moustadroine Abdou"
+    }
+  }
+]
