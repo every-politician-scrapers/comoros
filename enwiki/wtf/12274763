@@ -67,6 +67,51 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "year": "1959",
+          "month": "12",
+          "day": "31",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohamed Abdoulwahab"
+          },
+          "birth_date": {
+            "text": "December 31, 1959"
+          },
+          "nationality": {
+            "text": "🇰🇲 Comoros",
+            "links": [
+              {
+                "text": "Comoros",
+                "type": "internal",
+                "page": "comoros"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "President of Comoros",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of Grande Comore"
+              },
+              {
+                "type": "internal",
+                "page": "Comoros"
+              }
+            ]
+          },
+          "years_active": {
+            "text": "30 June 2007 – Present"
+          }
+        }
+      ],
       "references": [
         {
           "title": "Britannica Book of the Year 2008",

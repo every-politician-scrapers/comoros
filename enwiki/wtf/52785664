@@ -66,6 +66,34 @@
         {
           "date": "August 2022",
           "template": "cleanup bare urls"
+        },
+        {
+          "year": "1969",
+          "month": "06",
+          "day": "14",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Moustadroine Abdou"
+          },
+          "birth_date": {
+            "text": "June 14, 1969"
+          },
+          "nationality": {
+            "text": "Flag_of_the_Comoros.svg Comorian"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          }
         }
       ],
       "references": [
@@ -91,9 +119,6 @@
       "templates": [
         {
           "template": "reflist"
-        },
-        {
-          "template": "comoros-politician-stub"
         }
       ]
     }
