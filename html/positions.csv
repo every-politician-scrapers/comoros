@@ -1,19 +1,31 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q28220749,Comorian Ambassador to the United States,Q970,,,,,,,,List of ambassadors of the Comoros to the United States
-Q112038569,Health minister of the Comoros,Q970,Q970,,,,,,,
 Q113953775,Member of the Assembly of the Autonomous Island of Anjouan,Q970,Q231324,,,,,,,
 Q113953777,Member of the Assembly of the Autonomous Island of Grande Comore,Q970,Q244978,,,,,,,
 Q113953778,Member of the Assembly of the Autonomous Island of Mohéli,Q970,Q271797,,,,,,,
 Q21328589,Member of the Assembly of the Union of the Comoros,Q970,Q970,,,,,,,
+Q114566837,Minister of Agriculture,Q970,Q970,,,,,,,
+Q114566838,Minister of Economy,Q970,Q970,,,,,,,
 Q113953755,"Minister of Employment, Youth and Sports",Q970,Q970,,,,,,,
+Q114566869,"Minister of Energy, Water, and Hydrocarbons",Q970,Q970,,,,,,,
 Q113953759,Minister of Finance of the Comoros,Q970,Q970,,,,,,,
 Q19901416,Minister of Foreign Affairs,Q970,Q970,,,,,,,Minister of Foreign Affairs (Comoros)
+Q112038569,Minister of Health of the Comoros,Q970,Q970,,,,,,,
+Q114566839,Minister of Internal Affairs,Q970,Q970,,,,,,,
 Q113953751,Minister of Justice (Comoros),,Q970,,,,,,,
+Q114566841,Minister of Land Development and Town Planning,Q970,Q970,,,,,,,
+Q114566844,Minister of Maritime and Air Transportation,Q970,Q970,,,,,,,
+Q114566868,Minister of National Education,Q970,Q970,,,,,,,
+Q114566846,"Minister of Posts, Telecommunications and the Digital Economy",Q970,Q970,,,,,,,
+Q114566847,"Minister of Youth, Labour, Employment, Sports, Arts and Culture",Q970,Q970,,,,,,,
 Q7241258,President of Anjouan,Q970,Q231324,,,,,,,President of Anjouan
 Q28015452,President of Comoros,Q970,Q970,,Q3236550,,,,,
 Q7241268,President of Grande Comore,,,,,,,,,President of Grande Comore
 Q7241281,President of Mohéli,,,,,,,,,President of Mohéli
 Q113953758,President of the Assembly of the Union of the Comoros,,,,,,,,,
 Q52995381,Prime Minister of Comoros,Q970,Q970,,,,2002-04-15,,,
+Q114566850,Secretary of State in charge of Cooperation,Q970,Q970,,,,,,,
+Q114566853,Secretary of State in charge of Tourism and Handicrafts,Q970,Q970,,,,,,,
+Q114568447,Secretary-General of the Government,Q970,Q970,,,,,,,
 Q17005533,Vice President of the Comoros,Q970,Q970,,,,,,,Vice-President of the Comoros
 Q40338493,ambassador of the Comoros to Canada,Q970,,,,,,,,
