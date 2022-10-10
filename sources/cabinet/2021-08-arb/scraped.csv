@@ -1,17 +1,17 @@
-positionLabel,itemLabel,startdate
-President,Col Azali Assoumani,2021-08-28
-"Agriculture, Fisheries and Environment",Bianrifi Tarmidi,2021-08-28
-"Economy, Industry, Investment and Economic Integration",Aboudou Mohamed Chanfiou,2021-08-28
-"National Education, Teaching, Scientific Research, Training and Professional Integration",Djaffar Salim,2021-08-28
-"Energy, Water and Hydrocarbons",Ali Ibouroi,2021-08-28
-"Finance, the Budget and the Banking Sector",Kamaldini Souef,2021-08-28
-Foreign Affairs and International Cooperation in charge of Comorans Abroad,Dhoihir Dhoulkamal,2021-08-28
-"Health, Solidarity, Social Protection and Gender Promotion",Loub Yacout Zaidou,2021-08-28
-"Interior, Decentralisation and Territorial Administration in charge of Relations with Institutions",Mahamoud Fakridine,2021-08-28
-"Justice, Islamic Affairs and the Civil Service, in charge of Human Rights, Transparency and Public Administration",Mohamed Housseini Djamalilaili,2021-08-28
-"Land Development and Town Planning, in charge of Land Affairs and Land Transportation",Afretane Yssoufa,2021-08-28
-Maritime and Air Transportation,Ahmed Ali Bazi,2021-08-28
-"Posts, Telecommunications and the Digital Economy in charge of Information",Ahmed Ben Said Jaffar,2021-08-28
-"Youth, Labour, Employment, Sports, Arts and Culture",Takiddine Youssouf,2021-08-28
-Secretary of State in charge of Cooperation at the Ministry of Foreign Affairs and International Cooperation,Kassim Loutfi,2021-08-28
-"Secretary of State in charge of Tourism and Handicrafts at the Ministry of Economy, Investment and Energy in charge of Economic Integration, Tourism and Handicrafts",Moctar Ould Dada Hamdane,2021-08-28
+itemLabel,positionLabel,startdate
+Col Azali Assoumani,President,2021-08-28
+Bianrifi Tarmidi,"Agriculture, Fisheries and Environment",2021-08-28
+Aboudou Mohamed Chanfiou,"Economy, Industry, Investment and Economic Integration",2021-08-28
+Djaffar Salim,"National Education, Teaching, Scientific Research, Training and Professional Integration",2021-08-28
+Ali Ibouroi,"Energy, Water and Hydrocarbons",2021-08-28
+Kamaldini Souef,"Finance, the Budget and the Banking Sector",2021-08-28
+Dhoihir Dhoulkamal,Foreign Affairs and International Cooperation in charge of Comorans Abroad,2021-08-28
+Loub Yacout Zaidou,"Health, Solidarity, Social Protection and Gender Promotion",2021-08-28
+Mahamoud Fakridine,"Interior, Decentralisation and Territorial Administration in charge of Relations with Institutions",2021-08-28
+Mohamed Housseini Djamalilaili,"Justice, Islamic Affairs and the Civil Service, in charge of Human Rights, Transparency and Public Administration",2021-08-28
+Afretane Yssoufa,"Land Development and Town Planning, in charge of Land Affairs and Land Transportation",2021-08-28
+Ahmed Ali Bazi,Maritime and Air Transportation,2021-08-28
+Ahmed Ben Said Jaffar,"Posts, Telecommunications and the Digital Economy in charge of Information",2021-08-28
+Takiddine Youssouf,"Youth, Labour, Employment, Sports, Arts and Culture",2021-08-28
+Kassim Loutfi,Secretary of State in charge of Cooperation at the Ministry of Foreign Affairs and International Cooperation,2021-08-28
+Moctar Ould Dada Hamdane,"Secretary of State in charge of Tourism and Handicrafts at the Ministry of Economy, Investment and Energy in charge of Economic Integration, Tourism and Handicrafts",2021-08-28

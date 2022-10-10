@@ -6,12 +6,12 @@
     "cabinet": {
       "id": "Q114566740",
       "start": "2021-08-26",
+      "end": "2022-05-03",
       "parent": "Q113953747"
     },
     "reference": {
         "P248":   "Q114566751"
     },
-    "current_only": "true",
     "person_description": {
         "en": "politician in Comoros"
     }
