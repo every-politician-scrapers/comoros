@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+        "name": "Comoros",
+        "id": "Q970"
+    },
+    "cabinet": {
+        "id": "Q114566740",
+        "start":  "2022-05-10",
+        "end":    "2022-05-31",
+        "parent": "Q113953747"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "143"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Comoros"
+    }
+}
