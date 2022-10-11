@@ -1,0 +1,107 @@
+{
+  "title": "Bianrifi Tarmidi",
+  "pageID": 5501774,
+  "categories": [
+    "Living people",
+    "People from Mohéli",
+    "Prime Ministers of the Comoros",
+    "Justice ministers of the Comoros",
+    "Interior ministers of the Comoros",
+    "1958 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bianrifi Tarmidi (born 1958) is the former Prime Minister of the Comoros from 2 December 1999 until 29 November 2000.",
+              "links": [
+                {
+                  "text": "Prime Minister of the",
+                  "type": "internal",
+                  "page": "List of heads of government of the Comoros"
+                },
+                {
+                  "type": "internal",
+                  "page": "Comoros"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bianrifi Tarmidi"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed to his position under Colonel and President Azali Assoumani after he seized power in an April 1999 coup.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Azali Assoumani"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to ease international pressure on the regime, although Assoumani retained all power."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bianrifi Tarmidi is currently minister of justice and interior in the autonomous government of Mohéli.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohéli"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Abbas Djoussouf",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of the Comoros",
+          "years": "1999–2000",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hamada Madi",
+          "template": "s-aft"
+        },
+        {
+          "template": "comoros-politician-stub"
+        }
+      ]
+    }
+  ]
+}
