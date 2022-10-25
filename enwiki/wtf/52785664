@@ -64,10 +64,6 @@
           "template": "short description"
         },
         {
-          "date": "August 2022",
-          "template": "cleanup bare urls"
-        },
-        {
           "year": "1969",
           "month": "06",
           "day": "14",
@@ -98,10 +94,12 @@
       ],
       "references": [
         {
+          "title": "Vice-Présidence en charge du Ministère de l’Agriculture, de la Pêche, de l’Environnement, de l’Aménagement du Territoire et de l’Urbanisme {{!}} Gouvernement de l'Union des Comores",
+          "url": "https://web.archive.org/web/20181015231610/https://www.gouvernement.km/minist%C3%A8res/vice-pr%C3%A9sidence-en-charge-du-minist%C3%A8re-de-l%E2%80%99agriculture,-de-la-p%C3%AAche-109.html",
+          "website": "web.archive.org",
+          "date": "15 October 2018",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://country.eiu.com/article.aspx?articleid=1004314084&Country=Comoros&topic=Summary&subtopic=Political+structure",
@@ -119,6 +117,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "comoros-politician-stub"
         }
       ]
     }
