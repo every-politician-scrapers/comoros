@@ -17,6 +17,10 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no img name title start end].freeze
     end
+
+    def name_node
+      name_cell.at_css('b a') || name_cell.at_css('.//a[../b]')
+    end
   end
 end
 
