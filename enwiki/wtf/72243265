@@ -1,0 +1,87 @@
+{
+  "title": "Dhoihir Dhoulkamal",
+  "pageID": 72243265,
+  "categories": [
+    "Living people",
+    "Government ministers of the Comoros",
+    "Comorian politicians",
+    "21st-century Comorian politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dhoihir Dhoulkamal is a Comorian politician from Anjouan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anjouan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dhoihir Dhoulkamal"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as the Minister of Foreign Affairs since 28 September 2020 in Comoros.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Foreign minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Comoros"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Comorian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Wang Yi Holds Talks with Comorian Foreign Minister Dhoihir Dhoulkamal",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/topics_665678/kjgzbdfyyq/202201/t20220108_10480237.html",
+          "access-date": "2022-11-13",
+          "website": "www.fmprc.gov.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "COMOROS FOREIGN MINISTER MEETS WITH CS OMAMO IN NAIROBI – FOREIGN AFFAIRS {{!}} KENYA",
+          "url": "https://mfa.go.ke/comoros-foreign-minister-meets-with-cs-omamo-in-nairobi/",
+          "access-date": "2022-11-13",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "comoros-politician-stub"
+        }
+      ]
+    }
+  ]
+}
