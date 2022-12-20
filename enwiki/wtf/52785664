@@ -6,6 +6,7 @@
     "Living people",
     "1969 births",
     "Vice-presidents of the Comoros",
+    "Speakers of the Assembly of the Union of the Comoros",
     "People from Anjouan"
   ],
   "sections": [
@@ -52,6 +53,16 @@
                 {
                   "type": "internal",
                   "page": "Urbanism"
+                }
+              ]
+            },
+            {
+              "text": "He has been the speaker of the Assembly of the Union since 3 April 2020.",
+              "links": [
+                {
+                  "text": "Assembly of the Union",
+                  "type": "internal",
+                  "page": "Assembly of the Union of the Comoros"
                 }
               ]
             }
@@ -112,6 +123,15 @@
           "title": "EIUCountry Login",
           "website": "country.eiu.com",
           "access-date": "2017-01-05",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Comoros",
+          "url": "https://data.ipu.org/content/comoros?chamber_id=13368",
+          "website": "Parline: the IPU’s Open Data Platform",
+          "language": "en",
+          "date": "5 July 2018",
           "template": "citation",
           "type": "web"
         }
